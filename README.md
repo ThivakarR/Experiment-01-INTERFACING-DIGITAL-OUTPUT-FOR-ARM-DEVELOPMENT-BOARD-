@@ -175,11 +175,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
-## Output  :
- 
- 
- 
- 
+## Output  : 
+ LED OFF condition: 
+ ![img1](https://user-images.githubusercontent.com/118707074/226799134-8fcb2ff4-ad66-46dd-a37e-02f2d88177fb.jpeg)
+
+ LED ON condition: 
+
+ ![img2](https://user-images.githubusercontent.com/118707074/226799159-f6207915-5e9f-4576-831a-4c1177928df7.jpeg)
+
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
